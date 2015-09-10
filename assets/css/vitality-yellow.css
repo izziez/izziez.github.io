@@ -170,6 +170,7 @@ hr.colored {
   color: #11f596;
 }
 .text-primary, quote {
+  color: f611b9;
   background-color: RGBA(255,255,255,.9);
   border-radius: 10px;
 }
