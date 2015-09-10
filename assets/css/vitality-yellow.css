@@ -169,10 +169,13 @@ hr.colored {
 .text-primary {
   color: #11f596;
 }
-.text-primary, quote {
+.text-primary-quote {
   color: white;
   border-radius: 10px;
-  font-family: cursive; 
+  font-family: cursive;
+  background-color: rgba(0,0,0,.8);
+  padding-top: 15px;
+  padding-bottom: 5px;
 }
 .navbar-fixed-top {
   margin-bottom: 0;
