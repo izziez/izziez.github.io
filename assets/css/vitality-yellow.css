@@ -170,9 +170,9 @@ hr.colored {
   color: #11f596;
 }
 .text-primary, quote {
-  color: f611b9;
-  background-color: RGBA(255,255,255,.9);
+  color: white;
   border-radius: 10px;
+  font-family: cursive; 
 }
 .navbar-fixed-top {
   margin-bottom: 0;
