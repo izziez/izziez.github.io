@@ -169,13 +169,16 @@ hr.colored {
 .text-primary {
   color: #11f596;
 }
-.text-primary-quote {
+.quote-text-primary {
   color: white;
   border-radius: 10px;
-  font-family: cursive;
-  background-color: rgba(0,0,0,.8);
+  font-family: 'Engagement', cursive;
+  background-color: rgba(0,0,0,.6);
   padding-top: 15px;
-  padding-bottom: 5px;
+  padding-bottom: 15px;
+  padding-left: 45px;
+  padding-right: 45px;
+  font-size: 50px;
 }
 .navbar-fixed-top {
   margin-bottom: 0;
